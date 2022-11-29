@@ -2,7 +2,7 @@ print("Ingrese la cantidad de trajes comprados: ")
 cantidad =  int(input())
 
 print("Ingrese la el precio del traje comprado: ")
-precio =  int(input())
+precio = float(input())
 
 subtotal = precio * cantidad
 
